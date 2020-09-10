@@ -3,6 +3,10 @@
 💻 Software Engineer and Mathematics Teacher at [Projeto Med](https://projetomed.com.br) <br>
 🏡 Brazilian, Based in Itaboraí, RJ
 
+### You can find me on
+
+📷 [Instagram](https://instagram.com/gustavocfls)
+
 <!--
 **gustavocfls/gustavocfls** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
