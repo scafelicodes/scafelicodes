@@ -1,7 +1,7 @@
 ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, I'm Gustavo!
 
-💻 Software Engineer and Mathematics Teacher at [Projeto Med](https://projetomed.com.br) <br>
-🏡 Brazilian, Based in Itaboraí, RJ
+💻 Software Engineer <br>
+🏡 Brazilian, Based in Rio de Janeiro
 
 ### You can find me on
 
