@@ -5,7 +5,6 @@
 I'm a Front End Developer. Every day is a new chance to do something better.
 
 - 🏡 brazilian, based in Rio de Janeiro
-- 👩‍💻 currently working as photographer
 - 💜 geek, gamer, cinema & photography lover
 - 👩‍🎓 bachelor in Applied Mathematics, UFRJ
 
