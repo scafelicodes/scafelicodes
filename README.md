@@ -1,6 +1,4 @@
-### Hello, I'm Gustavo 👋🏻
-
----
+# Hello, I'm Gustavo 👋🏻
 
 I'm a Front End Developer. Every day is a new chance to do something better.
 
