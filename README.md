@@ -2,9 +2,8 @@
 
 I'm a Front End Developer. Every day is a new chance to do something better.
 
-- 🏡 brazilian, based in Rio de Janeiro
-- 💜 geek, gamer, cinema & photography lover
-- 👩‍🎓 bachelor in Applied Mathematics, UFRJ
+🏡 Brazilian, based in Rio de Janeiro <br/>
+💜 Geek, gamer, cinema & photography lover <br/>
 
 ## My Values
 🧠 Thoughtful & Inclusive Development <br/>
