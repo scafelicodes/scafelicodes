@@ -11,7 +11,5 @@ I'm a Front End Developer. Every day is a new chance to do something better.
 🙌 Teamwork & Communication
 
 ## Connect with Me
-- [Instagram](https://www.instagram.com/gustavocfls) <br/>
 - [Linkedin](https://www.linkedin.com/in/gustavocfls/) <br/>
-- [Twitter](https://twitter.com/gustavocfls) <br/>
 
