@@ -25,11 +25,11 @@ I don't really know how u got here, but I will try to show a little bit about my
 
 ## Public information
 
-My name is Gustavo Scafeli. I currently live in Rio de Janeiro, Brazil and my work is to solve bugs at my twitch channel.
+My name is Gustavo Souza. I currently live in Rio de Janeiro, Brazil and my work is to solve bugs at my twitch channel.
 
 ## Detailed information
 
-* **Name**: Gustavo Scafeli
+* **Name**: Gustavo Souza
 * **Age**: 31
 * **Living in**: Itaboraí - RJ, Brazil
 * **Stack**: ReactJS - NextJS - Bootstrap - MongoDB - AWS
