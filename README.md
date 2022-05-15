@@ -31,6 +31,6 @@ My name is Gustavo Souza. I currently live in Rio de Janeiro, Brazil and my work
 
 * **Name**: Gustavo Souza
 * **Age**: 31
-* **Living in**: Itaboraí - RJ, Brazil
+* **Living in**: Rio de Janeiro, Brazil
 * **Stack**: ReactJS - NextJS - Bootstrap - MongoDB - AWS
 * **University**: UFRJ - UNESA
