@@ -23,7 +23,9 @@ I don't really know how u got here, but I will try to show a little bit about my
 
 ## Public information
 
-My name is Gustavo Souza. I currently live in Rio de Janeiro, Brazil and my work is to solve bugs at my twitch channel.
+Hello, my name is Gustavo Souza. I've been a web developer since 2009 and since then I've had the opportunity to work with amazing companies and people, on projects that are present in the lives of thousands of people.
+
+Currently my focus is on front-end development. I study a lot about performance in projects that use React, NextJS and TypeScript.
 
 ## Detailed information
 
