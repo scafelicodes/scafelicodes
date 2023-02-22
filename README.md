@@ -1,14 +1,14 @@
 <div>
-    <a target='_blank' href="https://twitch.tv/scafeli">
+    <a target='_blank' href="https://twitch.tv/scafelicodes">
         <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white">
     </a>
-    <a target='_blank' href="https://twitter.com/gustavoscafeli">
+    <a target='_blank' href="https://twitter.com/scafeli">
         <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
     </a>
-    <a target='_blank' href="https://instagram.com/gustavoscafeli">
+    <a target='_blank' href="https://instagram.com/scafelicodes">
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
     </a>
-    <a target='_blank' href="https://linkedin.com/in/gustavoscafeli">
+    <a target='_blank' href="https://linkedin.com/in/scafelicodes">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
     </a>
     <a target='_blank' href="https://dev.to/scafeli">
@@ -27,7 +27,6 @@ Currently my focus is on front-end development. I study a lot about performance 
 ## Detailed information
 
 * **Name**: Gustavo Scafeli
-* **Age**: 31
 * **Living in**: Rio de Janeiro, Brazil
 * **Stack**: ReactJS - NextJS - Bootstrap - MongoDB - AWS
 * **University**: UFRJ (Applied Mathematics) - UNESA (Analysis and Systems Development)
