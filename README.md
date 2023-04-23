@@ -26,7 +26,7 @@ Currently my focus is on front-end development. I study a lot about performance 
 
 ## Detailed information
 
-* **Name**: Gustavo Scafeli
+* **Name**: Gustavo Souza
 * **Living in**: Rio de Janeiro, Brazil
 * **Stack**: ReactJS - NextJS - Bootstrap - MongoDB - AWS
 * **University**: UFRJ (Applied Mathematics) - UNESA (Analysis and Systems Development)
