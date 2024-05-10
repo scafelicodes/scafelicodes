@@ -20,13 +20,13 @@
 
 ## About me
 
-Hello, my name is Gustavo "Scafeli" Souza. I've been a web developer since 2009 and since then I've had the opportunity to work with amazing companies and people, on projects that are present in the lives of thousands of people.
+Hello, my name is Gustavo Souza. I've been a developer since 2009 and since then I've had the opportunity to work with amazing companies and people, on projects that are present in the lives of thousands of people.
 
 Currently my focus is on front-end development. I study a lot about performance in projects that use React and NextJS. I've also worked with other technologies like Office365 (SharePoint), PHP (WordPress + WooCommerce), Perl and Python. Ps: I'm trying to forget that part of my life (just kidding - or not).
 
 ## Detailed information
 
-* **Name**: Gustavo "Scafeli" Souza
+* **Name**: Gustavo Souza
 * **Living in**: Rio de Janeiro, Brazil
-* **Stack**: ReactJS - NextJS - Bootstrap - MongoDB - AWS
-* **University**: UFRJ (Applied Mathematics) - UNESA (Analysis and Systems Development)
+* **Stack**: ReactJS - NextJS - MongoDB - AWS
+* **Study**: Applied Mathematics - Analysis and Systems Development
